@@ -1,3 +1,4 @@
 
-*/this program factorizes prime numbers
-prime factoring /*
+/*this program factorizes prime numbers
+Author: ME
+/*
